@@ -1,24 +1,22 @@
-# <Your-Project-Title>
+# <SEO site source optimization>
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+I was given a project to optimize the source code of this web page. I Broke down all different challenges andwrote them as issues on my repo and tackled them individually. 
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+* First was cleaning up the semantics of the HTML and adjusting the CSS style sheet to fit the new changes. 
+* Second was removing redundant lines from the Style sheet. 
+* Third was adding proper notes to the Style sheet to explain the purpose of each group of code.
+* Lastly was getting the new web page deployed using git hub pages. 
 
-## Table of Contents (Optional)
+This project taught me how to go and get the information I needed to best tackle the listed issues above, such as how to properly add semantics to an inde.html file and format a style sheet.
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
+## Changes 
 
-## Installation
+```md
+    ![alt text](assets-readme/html before.png)
+    ```
 
 What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
