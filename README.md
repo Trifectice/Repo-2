@@ -15,16 +15,16 @@ This project taught me how to go and get the information I needed to best tackle
 Bellow are some images of the issues I saw and corrected for this challenge.
 
 ### HTML Before!
-  ![alt text](../urban-octo-telegram/assets-readme/html%20before.png)
+  ![html before](/assets-readme/html%20before.png)
 
 ### HTML After
-  ![html after](../urban-octo-telegram/assets-readme/html%20after.png)
+  ![html after](/assets-readme/html%20after.png)
 
 ### Style sheet before!
-  ![style sheet before](../urban-octo-telegram/assets-readme/style%20sheet%20before.png)
+  ![style sheet before](/assets-readme/style%20sheet%20before.png)
 
 ### Style sheet after!
-  ![style sheet after](../urban-octo-telegram/assets-readme/style%20sheet%20after.png)
+  ![style sheet after](/assets-readme/style%20sheet%20after.png)
 
 ## Link to working site
 
